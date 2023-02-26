@@ -8,6 +8,10 @@ patch:
         patched: '2023-02-26T20:56:46.385Z'
     - babel > babel-core > babel-plugin-proto-to-assign > lodash:
         patched: '2023-02-26T20:56:46.385Z'
+    - koa-jade > lodash:
+        patched: '2023-02-26T20:57:12.510Z'
   'npm:uglify-js:20151024':
     - koa-jade > jade > transformers > uglify-js:
         patched: '2023-02-26T20:56:46.385Z'
+    - koa-jade > jade > transformers > uglify-js:
+        patched: '2023-02-26T20:57:12.510Z'
