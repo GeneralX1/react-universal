@@ -15,3 +15,6 @@ patch:
         patched: '2023-02-26T20:56:46.385Z'
     - koa-jade > jade > transformers > uglify-js:
         patched: '2023-02-26T20:57:12.510Z'
+  'npm:uglify-js:20150824':
+    - koa-jade > jade > transformers > uglify-js:
+        patched: '2023-02-26T21:03:08.550Z'
