@@ -34,7 +34,7 @@
     "express-graphql": "^0.4.0",
     "font-awesome": "^4.4.0",
     "forever": "^4.0.0",
-    "graphql": "^0.4.7",
+    "graphql": "^0.13.2",
     "graphql-relay": "^0.3.2",
     "history": "^1.11.1",
     "immutable": "^3.7.5",
