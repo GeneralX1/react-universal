@@ -34,8 +34,13 @@
     "express-graphql": "^0.12.0",
     "font-awesome": "^4.4.0",
     "forever": "^4.0.0",
+ snyk-upgrade-ffb63007be2a2a68b827d234611683ab
+    "graphql": "^0.13.2",
+    "graphql-relay": "^0.3.2",
+
     "graphql": "^0.4.7",
     "graphql-relay": "^0.10.0",
+ master
     "history": "^1.11.1",
     "immutable": "^3.7.5",
     "isomorphic-fetch": "^3.0.0",
