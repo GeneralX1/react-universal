@@ -31,7 +31,7 @@
     "concurrently": "^2.1.0",
     "deep-equal": "^1.0.1",
     "express": "^4.13.3",
-    "express-graphql": "^0.4.0",
+    "express-graphql": "^0.12.0",
     "font-awesome": "^4.4.0",
     "forever": "^4.0.0",
     "graphql": "^0.4.7",
