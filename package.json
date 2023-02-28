@@ -35,7 +35,7 @@
     "font-awesome": "^4.4.0",
     "forever": "^4.0.0",
     "graphql": "^0.4.7",
-    "graphql-relay": "^0.3.2",
+    "graphql-relay": "^0.10.0",
     "history": "^1.11.1",
     "immutable": "^3.7.5",
     "isomorphic-fetch": "^3.0.0",
